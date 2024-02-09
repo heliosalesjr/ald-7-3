@@ -31,7 +31,7 @@ const OSite3 = () => {
         <div className="py-16 overflow-hidden">
           <div className="container m-auto px-6 space-y-8 text-slate-700 md:px-12">
             <div>
-              <h2 className="mt-4 text-2xl text-slate-900 font-bold md:text-4xl">O Site 4</h2>
+              <h2 className="mt-4 text-2xl text-slate-900 font-bold md:text-4xl">O Site 3</h2>
             </div>
             <p className='text-slate-700 pb-8'>Vamos ver quais <strong>Etapas do Projeto</strong>, temas de <strong>Matemática</strong> e <strong>ferramentas didáticas</strong> serão tratadas neste site:</p>
             <div className="pb-8 mt-16 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8">

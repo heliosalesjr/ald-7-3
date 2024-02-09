@@ -6,6 +6,7 @@ import IntroButons from "./components/IntroButons"
 import MainButton from "./components/MainButton"
 import OSite3 from "./components/OSite3"
 import Relembrando from "./components/Relembrando"
+import TesteBard from "./components/TesteBard"
 
 
 
@@ -14,7 +15,8 @@ export default function Home() {
     <>
       
       <HeroSection />
-      <OSite3 />
+      <OSite3 /> 
+      
       <Divider className="max-w-3xl mx-auto mb-12" />  
       <Relembrando />
       <IntroButons />
